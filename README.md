@@ -104,3 +104,13 @@ https://www.chip.pk
 # License
 
 This project is released under the MIT License.
+
+## Learn More
+
+Read the complete tutorial on Chip.pk
+
+https://www.chip.pk/blogs/chip-pk-knowledge-hub/how-to-get-started-with-esp32-in-2026-complete-beginner-guide
+
+Hackster Project
+
+https://www.hackster.io/chip-pk/getting-started-with-esp32-complete-beginner-guide-5f4d5b
