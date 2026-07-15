@@ -109,7 +109,7 @@ This project is released under the MIT License.
 
 Read the complete tutorial on Chip.pk
 
-https://www.chip.pk/blogs/chip-pk-knowledge-hub/how-to-get-started-with-esp32-in-2026-complete-beginner-guide
+https://www.chip.pk/blogs/chip-pk-knowledge-hub/how-to-get-started-with-esp32-in-2026
 
 Hackster Project
 
